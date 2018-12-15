@@ -1,0 +1,16 @@
+body {
+  font-family: "Euphemia UCAS"
+}
+
+#out {
+  width: 800px;
+  height: 600px;
+}
+
+.rendering svg {
+  display: none;
+}
+
+.rendering {
+  font-style: italic;
+}
